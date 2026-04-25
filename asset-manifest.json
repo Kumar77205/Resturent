@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Resturent/static/css/main.df7003d8.css",
+    "main.js": "/Resturent/static/js/main.12a4bd48.js",
+    "static/js/787.d3befce1.chunk.js": "/Resturent/static/js/787.d3befce1.chunk.js",
+    "static/media/fastfood.webp": "/Resturent/static/media/fastfood.a9b4ebc31b24a9d456e3.webp",
+    "static/media/Food.jpg": "/Resturent/static/media/Food.41cabf4a0baad13d0f6b.jpg",
+    "static/media/rasturent.jpeg": "/Resturent/static/media/rasturent.1b732903357e138c967d.jpeg",
+    "static/media/Masala-Dosa1.webp": "/Resturent/static/media/Masala-Dosa1.d78bb527ddfa22647f20.webp",
+    "static/media/food.jpeg": "/Resturent/static/media/food.11a588387872282b9d0b.jpeg",
+    "index.html": "/Resturent/index.html",
+    "main.df7003d8.css.map": "/Resturent/static/css/main.df7003d8.css.map",
+    "main.12a4bd48.js.map": "/Resturent/static/js/main.12a4bd48.js.map",
+    "787.d3befce1.chunk.js.map": "/Resturent/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7003d8.css",
+    "static/js/main.12a4bd48.js"
+  ]
+}
